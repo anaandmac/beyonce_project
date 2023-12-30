@@ -102,4 +102,3 @@ This is my output, so I know that I'm using my account:
 
 ![alt text](https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-29%20at%2021.31.29.png)
 
-![alt text]()
