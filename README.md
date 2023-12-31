@@ -1,12 +1,12 @@
 # Beyoncé Project
 
-This project is an exploratory analysis with Spotify data, more specifically *Queen B*, *Mother of the House of Renaissance*, __*Beyoncé*__ data!
+This project is an exploratory analysis with Spotify data, more specifically *Queen B* 👑, *Mother of the House of Renaissance* 🪩, __*Beyoncé*__ data 👸🏽!
 
 On this read.me, you can see how to access Spotify API using OAuth and some results from my analysis.
 
 ## Set up the Spotify Developer
 
-The first step is to go to https://developer.spotify.com and create a new dashboard, where it will be possible to get the client id and secret. To this, after logging in with your Spotify account, you can click on Dashboard > Create app.
+The first step is to go to [developer Spotify page](https://developer.spotify.com) and create a new dashboard, where it will be possible to get the client id and secret. To this, after logging in with your Spotify account, you can click on Dashboard > Create app.
 ![alt text](https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-27%20at%2022.41.54.png)
 
 ![alt text](https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-29%20at%2020.20.18.png)
@@ -26,7 +26,7 @@ Cool, you have everything to start work in the python code!
 
 ## Using Python to access Spotify API
 
-Here I will share just how to authenticate your account using python to get some Spotify data. In the Spotify documentation (https://developer.spotify.com/documentation/web-api) you can check all the information that is available and how to build queries.
+Here I will share just how to authenticate your account using python to get some Spotify data. In the [Spotify documentation](https://developer.spotify.com/documentation/web-api) you can check all the information that is available and how to build queries.
 
 Here are the libraries that is needed:
 ```
@@ -76,7 +76,7 @@ A Spotify page will open and you need to authenticate with your regular account:
 <img src="https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-29%20at%2021.00.49.png" width="300" class="center">
 
 
-After that looks like you have an error, but in the URL there is the authorization code. You can copy everything that is after the *http://localhost:8888/callback?code=* (the URL can change if you configure another path in the dashboard creation).
+After that looks like you have an error, but in the URL there is the authorization code. You can copy everything that is after the *`http://localhost:8888/callback?code=`* (the URL can change if you configure another path in the dashboard creation).
 ![alt text](https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-29%20at%2021.22.02.png)
 
 And just past in the python request and press enter:
@@ -101,4 +101,9 @@ final
 This is my output, so I know that I'm using my account:
 
 ![alt text](https://raw.githubusercontent.com/anaandmac/beyonce_project/main/Screenshot%202023-12-29%20at%2021.31.29.png)
+
+
+## Notebook structure
+
+I create one single notebook with all the code and the visualizations. Feel free to divide in the way that you feel more comfortable.
 
