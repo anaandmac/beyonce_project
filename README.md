@@ -1,6 +1,6 @@
 # Beyoncé Project
 
-This project is an exploratory analysis with Spotify data, more specifically *Queen B* 👑, *Mother of the House of Renaissance* 🪩, __*Beyoncé*__ data 👸🏽!
+This project is an exploratory analysis with Spotify data, more specifically *Queen B* 👑, *Mother of the House of Renaissance* 🪩, __*Beyoncé*__ 👸🏽 data!
 
 On this read.me, you can see how to access Spotify API using OAuth and some results from my analysis.
 
